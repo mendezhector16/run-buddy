@@ -1,9 +1,9 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Pupose
-A website that offers fitness training services
+A website that offers fitness training services.
 
-#Built with 
+# Built with 
 * HTML
 * CSS
 
@@ -12,3 +12,5 @@ https://learnantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Hector Mendez
+
+### ©2019 Run Buddy, Inc
